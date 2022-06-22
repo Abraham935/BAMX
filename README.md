@@ -1,5 +1,10 @@
 # BAMX
-Proyecto de la materia TC2007B. Aplicación iOS para el Banco de Alimentos de México.
+Proyecto de la materia TC2007B. 
+Aplicación iOS para el Banco de Alimentos de México.
+
+## Tecnologías utilizadas:
+Swift.
+Firebase.
 
 ## Autores
 - [Manuel Cota](https://github.com/nihonboi)
