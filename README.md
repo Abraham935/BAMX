@@ -4,6 +4,7 @@ Aplicación iOS para el Banco de Alimentos de México.
 
 ## Tecnologías utilizadas:
 Swift.
+
 Firebase.
 
 ## Autores
